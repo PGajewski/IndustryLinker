@@ -1,0 +1,5 @@
+#ifndef LINKERCLIENTS
+#define LINKERCLIENTS
+
+#endif // LINKERCLIENTS
+
